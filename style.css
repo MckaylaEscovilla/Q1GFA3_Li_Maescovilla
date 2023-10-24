@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#body{
+    background-color: #b99d72;
+    width: 100%;
+}
+.navbar{
+    background-color: #97825d;
+    height: 50px;
+    width: 100%;
+}
+.logo{
+    background-color: #97825d;
+    object-fit: cover;
+    display: inline-block;
+    margin-left: 1%;
+    top: 3%;
+}
+#teddy{
+    border-radius: 50%;
+    width: 40px;
+}
+#linksgroup{
+    float: right;
+    background-color: #97825d;
+}
+.links{
+    background-color: #97825d;
+    display: inline-block;
+    font-weight: 300;
+    font-size: x-large;
+}
+.links a{
+    text-decoration: none;
+    border-radius: 40%;
+    padding: 5px;
+}
+#home{
+    padding: 10px;
+}
+#home a{
+    color: black;
+    background-color: #D0AF7A;
+}
+#studybg{
+    padding: 10px;
+}
+#studybg a{
+    color: black;
+    background-color: #D0AF7A;
+}
+#mcc{
+    padding: 10px;
+}
+#mcc a{
+    color: black;
+    background-color: #D0AF7A;
+}
+#ref{
+    padding: 10px;
+}
+#ref a{
+    color: black;
+    background-color: #D0AF7A;
+}
+.header{
+
+}
+.headertext{
+    font-family: 'Comfortaa', cursive;
+    top: 20%;
+    position: absolute;
+}
+.headertext h2{
+    font-size: 4em;
+}
+.headertext p{
+
+}
+#himg{
+    float: right;
+    width: 20vw;
+    height: 20vw;
+}
+.fb{
+    position: fixed;
+    bottom: 0;
+    background-color: #97825d;
+    height: 50px;
+    width: 100%;
+}
+.copyright{
+
+}
+.fbelem{
+    float: right;
+    display: inline-block;
+    margin: 5px;
+    top: 2%;
+    margin-left: 1%;
+    object-fit: cover;
+}
+#copyright{
+    float: left;
+}
+#imgs2{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
